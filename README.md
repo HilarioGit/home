@@ -1,8 +1,8 @@
 # home
 Repositório do website oficial da comunidade
-# Full Cycle DevOps Community
+# FullCycle - Angolan Community
 
-Bem-vindo ao repositório da Full Cycle DevOps Community! Este projeto é uma plataforma para compartilhar artigos e discutir tópicos relacionados a DevOps. Ele utiliza uma configuração moderna com Angular e NestJS, proporcionando uma experiência rica e interativa para nossos usuários.
+Bem-vindo!, este projeto é uma plataforma para compartilhar artigos e discutir tópicos relacionados a DevOps. Ele utiliza uma configuração moderna com Angular e NestJS, proporcionando uma experiência rica e interativa para nossos usuários.
 
 ## Estrutura do Projeto
 
